@@ -7,9 +7,17 @@ Certified in <b>CompTIA</b> and <b>Google Cybersecurity</b>, I’m currently pur
 </p>
 
 ---
+<h2>🦾 Certifications</h2>
+
+- **Comptia security+** 
+- **Google Python Automation**
+- **Google Cybersecurity**
+- **Google Cloud Management**
+---
 
 <h2>💻 Cybersecurity & IT Projects</h2>
-
+    
+     I'll be posting:  
 - 🔎 **Threat Hunting & SIEM Lab** – Detecting failed RDP logins with log analysis  
 - 🛡️ **File Integrity Monitor** – Python script to track and report file changes  
 - 🔐 **Password Cracking Demo** – Hands-on project exploring hashing & brute force  
@@ -18,11 +26,11 @@ Certified in <b>CompTIA</b> and <b>Google Cybersecurity</b>, I’m currently pur
 
 ---
 
-<h2>📚 Currently Learning</h2>
+<h2>📚 Currently going for</h2>
 
-- Advanced **network security** & threat mitigation  
+- **Comptia network** certificate
 - **Python scripting** for automation in cybersecurity  
-- **Cloud security** and Linux hardening techniques  
+- Advanced **network security** & threat mitigation  
 
 ---
 
