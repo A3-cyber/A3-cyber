@@ -22,8 +22,8 @@ Certified in <b>CompTIA</b> and <b>Google Cybersecurity</b>, I’m currently pur
 - 🛡️ **File Integrity Monitor** – Python script to track and report file changes  
 - 🔐 **Password Cracking Demo** – Hands-on project exploring hashing & brute force  
 - ⚙️ **Python Automation Tools** – Scripts for system monitoring & log parsing  
-- 🌐 **Networking Labs** – Configuring firewalls, VLANs, and packet captures  
-
+- 🌐 **Networking Labs** – Configuring firewalls, VLANs, and packet captures
+-  [Microsoft Sentinel Honeypot & Attack Map](https://github.com/A3-cyber/Microsoft-Sentinel-Honeypot-Attack-Map)
 ---
 
 <h2>📚 Currently going for</h2>
